@@ -1,0 +1,79 @@
+//deck-1
+1 Whispersilk Cloak
+1 Whirler Rogue
+1 Wall of Omens
+1 Venser, the Sojourner
+1 Unquestioned Authority
+1 Tranquil Cove
+1 Time Wipe
+1 Thassa, God of the Sea
+1 Temple of Enlightenment
+1 Teleportation Circle
+1 Sunblast Angel
+1 Sun Titan
+1 Strionic Resonator
+1 Stonehorn Dignitary
+1 Stoic Farmer
+1 Spine of Ish Sah
+1 Soulherder
+1 Sol Ring
+1 Semester's End
+1 Sejiri Refuge
+1 Sea Gate Oracle
+1 Scroll of Fate
+1 Rogue's Passage
+1 Riftwing Cloudskate
+1 Return to Dust
+1 Reflector Mage
+1 Reality Acid
+1 Ranar the Ever-Watchful
+1 Protective Bubble
+1 Prismatic Lens
+1 Prairie Stream
+12 Plains
+1 Phyrexian Ingester
+1 Peregrine Drake
+1 Pentarch Ward
+1 Panharmonicon
+1 Opt
+1 Omen of the Sea
+1 Nevermaker
+1 Negate
+1 Mulldrifter
+1 Mind Stone
+1 Meteor Golem
+1 Meandering River
+1 Mana Geode
+1 Linvala, the Preserver
+1 Lavinia of the Tenth
+1 Kor Cartographer
+12 Island
+1 Irrigated Farmland
+1 Hour of Revelation
+1 Glacial Floodplain
+1 Ghostly Flicker
+1 Flickerwisp
+1 Exclusion Ritual
+1 Ethereal Valkyrie
+1 Essence Flux
+1 Ephara, God of the Polis
+1 Elspeth Conquers Death
+1 Eerie Interlude
+1 Dusk // Dawn
+1 Dovin's Veto
+1 Diluvian Primordial
+1 Deadeye Navigator
+1 Curator's Ward
+1 Commander's Sphere
+1 Command Tower
+1 Cloudshift
+1 Clever Impersonator
+1 Cleansing Nova
+1 Charming Prince
+1 Brago, King Eternal
+1 Azorius Signet
+1 Azorius Guildgate
+1 Azorius Chancery
+1 Azor, the Lawbringer
+1 Angel of Serenity
+1 Access Tunnel

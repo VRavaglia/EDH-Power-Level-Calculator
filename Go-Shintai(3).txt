@@ -1,0 +1,93 @@
+1 Alpine Meadow
+1 Arcane Sanctum
+1 Arcane Signet
+1 Beast Within
+1 Canopy Vista
+1 Celestial Dawn
+1 Cinder Glade
+1 Command Tower
+1 Cosmic Intervention
+1 Crumbling Necropolis
+1 Cultivate
+1 Dance of the Manse
+1 Darksteel Mutation
+1 Destiny Spinner
+1 Doomwake Giant
+1 Eerie Ultimatum
+1 Eidolon of Blossoms
+1 Enchantress's Presence
+1 Exotic Orchard
+1 Extinguish All Hope
+1 Faeburrow Elder
+1 Farseek
+1 Fellwar Stone
+1 Fertile Ground
+5 Forest
+1 Frontier Bivouac
+1 Ghostly Prison
+1 Go-Shintai of Ancient Wars
+1 Go-Shintai of Boundless Vigor
+1 Go-Shintai of Hidden Cruelty
+1 Go-Shintai of Life's Origin
+1 Go-Shintai of Lost Wisdom
+1 Go-Shintai of Shared Purpose
+1 Hall of Heliod's Generosity
+1 Honden of Cleansing Fire
+1 Honden of Infinite Rage
+1 Honden of Life's Web
+1 Honden of Night's Reach
+1 Honden of Seeing Winds
+1 Honor-Worn Shaku
+1 Idyllic Tutor
+1 Island
+1 Jukai Naturalist
+1 Jungle Shrine
+1 Kenrith's Transformation
+1 Kodama's Reach
+1 Krosan Verge
+1 Mesa Enchantress
+1 Moon-Blessed Cleric
+1 Mountain
+1 Mystic Monastery
+1 Negate
+1 Nomad Outpost
+1 Opulent Palace
+1 Path of Ancestry
+4 Plains
+1 Prairie Stream
+1 Propaganda
+1 Reliquary Tower
+1 Resurgent Belief
+1 Rimewood Falls
+1 Sanctum Weaver
+1 Sanctum of All
+1 Sanctum of Calm Waters
+1 Sanctum of Fruitful Harvest
+1 Sanctum of Shattered Heights
+1 Sanctum of Stone Fangs
+1 Sanctum of Tranquil Light
+1 Sandsteppe Citadel
+1 Satyr Enchanter
+1 Savage Lands
+1 Search for Glory
+1 Seaside Citadel
+1 Setessan Champion
+1 Sigil of the Empty Throne
+1 Sisay, Weatherlight Captain
+1 Snowfield Sinkhole
+1 Sol Ring
+1 Sphere of Safety
+1 Sterling Grove
+1 Swamp
+1 Swift Reconfiguration
+1 Swords to Plowshares
+1 Sythis, Harvest's Hand
+1 The World Tree
+1 Three Visits
+1 Trace of Abundance
+1 Verduran Enchantress
+1 Weaver of Harmony
+1 Whirlwind of Thought
+1 Wild Growth
+1 Woodland Chasm
+1 Zur the Enchanter

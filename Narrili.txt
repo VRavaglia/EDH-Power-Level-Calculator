@@ -1,0 +1,78 @@
+1 Abrade
+1 Ancient Den
+1 Arcane Signet
+1 Ardent Recruit
+1 Armed Response
+1 Armory of Iroas
+1 Ash Barrens
+1 Auriok Sunchaser
+1 Blacksmith's Skill
+1 Blade Banish
+1 Blade-Tribe Berserkers
+1 Bladed Pinions
+1 Bone Saw
+1 Boots of Speed
+1 Boros Guildgate
+1 Brute Force
+1 Cathar's Shield
+1 Champion of the Flame
+1 Citadel Gate
+1 Cliffgate
+1 Cloak of the Bat
+1 Command Tower
+1 Commander's Sphere
+1 Concussive Bolt
+1 Cosmotronic Wave
+1 Crash Through
+1 Crystal Slipper
+1 Darksteel Axe
+1 Darksteel Citadel
+1 Darksteel Ingot
+1 Executioner's Hood
+1 Expedition Map
+1 Explorer's Scope
+1 Fellwar Stone
+1 Frogmite
+1 Galvanic Blast
+1 Ghalma's Warden
+1 Goblin Gaveleer
+1 Goldvein Pick
+1 Golem-Skin Gauntlets
+1 Great Furnace
+1 Greatsword of Tyr
+1 Haunted Cloak
+1 Heart-Piercer Bow
+1 Hedgewitch's Mask
+1 Ingenious Artillerist
+1 Ironclad Slayer
+1 Kazuul's Toll Collector
+1 Kor Outfitter
+1 Leather Armor
+1 Lens Flare
+1 Lightning Spear
+1 Militant Inquisitor
+12 Mountain
+1 Myr Adapter
+1 Myr Enforcer
+1 Myr Retriever
+1 Nahiri, Storm of Stone
+1 Pilgrim's Eye
+12 Plains
+1 Prying Blade
+1 Rusted Relic
+1 Rustvale Bridge
+1 Sanctum Gargoyle
+1 Scavenged Blade
+1 Sojourner's Companion
+1 Spidersilk Net
+1 Stone Quarry
+1 Teetering Peaks
+1 Thriving Bluff
+1 Thriving Heath
+1 Tormentor's Helm
+1 Towashi Songshaper
+1 Trailblazer's Torch
+1 Wayfarer's Bauble
+1 Welding Sparks
+1 Whispersilk Cloak
+1 Wind-Scarred Crag

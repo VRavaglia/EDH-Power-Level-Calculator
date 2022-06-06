@@ -1,0 +1,79 @@
+1 Arcane Signet
+1 Atog
+1 Battle Hymn
+1 Brainstorm
+1 Chromatic Sphere
+1 Chromatic Star
+1 Command Tower
+1 Commander's Sphere
+1 Crumbling Vestige
+1 Darksteel Citadel
+1 Desperate Ritual
+1 Disruption Protocol
+1 Distant Melody
+1 Empty the Warrens
+1 Evolving Wilds
+1 Faithless Looting
+1 Feldon's Cane
+1 Firebrand Archer
+1 Flood of Recollection
+1 Flowstone Thopter
+1 Forge of Heroes
+1 Frantic Search
+1 Frogmite
+1 Gitaxian Probe
+1 Grapeshot
+1 Great Furnace
+1 Gush
+1 High Tide
+1 Holdout Settlement
+1 Ideas Unbound
+1 Infernal Plunge
+1 Into Thin Air
+13 Island
+1 Izzet Locket
+1 Izzet Signet
+1 Kiln Fiend
+1 Kuldotha Rebirth
+1 Machinate
+1 Mana Geyser
+1 Mind Stone
+11 Mountain
+1 Myr Enforcer
+1 Mystic Sanctuary
+1 Nivix Cyclops
+1 Oxidda Golem
+1 Pentad Prism
+1 Perilous Research
+1 Ponder
+1 Preordain
+1 Pyretic Ritual
+1 Reckless Barbarian
+1 Rolling Thunder
+1 Saheeli, Sublime Artificer
+1 Scale of Chiss-Goria
+1 Seat of the Synod
+1 Seething Song
+1 Serpentine Curve
+1 Serum Visions
+1 Shadow Rift
+1 Shared Discovery
+1 Signpost Scarecrow
+1 Silverbluff Bridge
+1 Sisay's Ring
+1 Slip Through Space
+1 Sojourner's Companion
+1 Spire Golem
+1 Stonework Packbeast
+1 Stream of Thought
+1 Survivors' Encampment
+1 Teach by Example
+1 Terramorphic Expanse
+1 Thermo-Alchemist
+1 Thermopod
+1 Thoughtcast
+1 Tooth of Chiss-Goria
+1 Treasure Cruise
+1 Ur-Golem's Eye
+1 Wee Dragonauts
+

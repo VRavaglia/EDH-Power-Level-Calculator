@@ -1,0 +1,93 @@
+ 1 Arcane Signet
+1 Argothian Enchantress
+1 Ashiok, Dream Render
+1 Aura Shards
+1 Badlands
+1 Bayou
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Boseiju, Who Shelters All
+1 Carpet of Flowers
+1 Chromatic Lantern
+1 Chrome Mox
+1 Command Tower
+1 Counterspell
+1 Cyclonic Rift
+1 Dance of the Manse
+1 Deflecting Swat
+1 Demonic Tutor
+1 Dockside Extortionist
+1 Dryad of the Ilysian Grove
+1 Eiganjo, Seat of the Empire
+1 Enchantress's Presence
+1 Enlightened Tutor
+1 Esper Sentinel
+1 Exotic Orchard
+1 Fierce Guardianship
+1 Flooded Strand
+4 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Ghostly Prison
+1 Go-Shintai of Ancient Wars
+1 Go-Shintai of Boundless Vigor
+1 Go-Shintai of Hidden Cruelty
+1 Go-Shintai of Life's Origin
+1 Go-Shintai of Lost Wisdom
+1 Go-Shintai of Shared Purpose
+1 Greater Auramancy
+1 Honden of Cleansing Fire
+1 Honden of Infinite Rage
+1 Honden of Life's Web
+1 Honden of Night's Reach
+1 Honden of Seeing Winds
+1 Idyllic Tutor
+1 Imperial Seal
+3 Island
+1 Jegantha, the Wellspring
+1 Jeweled Lotus
+1 Jukai Naturalist
+1 Karn's Temporal Sundering
+1 Mana Crypt
+1 Marsh Flats
+1 Maze of Ith
+1 Mesa Enchantress
+1 Misty Rainforest
+1 Mox Amber
+1 Mystic Remora
+1 Narset, Parter of Veils
+1 Nexus of Fate
+1 Oko, Thief of Crowns
+1 Paradox Haze
+3 Plains
+1 Propaganda
+1 Purphoros, Bronze-Blooded
+1 Rhystic Study
+1 Sakashima of a Thousand Faces
+1 Sakashima the Impostor
+1 Sanctum of All
+1 Sanctum of Calm Waters
+1 Sanctum of Fruitful Harvest
+1 Sanctum of Shattered Heights
+1 Sanctum of Stone Fangs
+1 Sanctum of Tranquil Light
+1 Sanctum Weaver
+1 Savannah
+1 Scrubland
+1 Sensei's Divining Top
+1 Sisay, Weatherlight Captain
+1 Sol Ring
+1 Sterling Grove
+1 Swiftfoot Boots
+1 Sythis, Harvest's Hand
+1 Taiga
+1 Takenuma, Abandoned Mire
+1 Teferi, Time Raveler
+1 The World Tree
+1 Trinisphere
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Vampiric Tutor
+1 Volcanic Island
+1 Wooded Foothills
