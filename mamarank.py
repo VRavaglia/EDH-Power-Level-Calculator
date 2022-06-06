@@ -11,7 +11,7 @@ rarityprob = {"common": 1/10,
              "uncommon": 1/3,
              "rare": 1,
               "special": 1,
-             "mythic": 8,}
+             "mythic": 8}
 
 
 # deck = 'Faldorn.untap.txt'
@@ -50,7 +50,7 @@ for row in f:
                 else:
                     name += c
         if (not name in basics) and amount != '':
-            # print(row)
+            print(row)
             cardnames.append(name)
             cardamounts.append(int(amount))
 
@@ -65,35 +65,42 @@ sumedh = 0
 sump = 0
 ranks = {}
 
+# row = df[df.iloc[:, 8] == cardnames[0]].iloc[0]
+
 for cardname in cardnames:
-    row = df[df.iloc[:, 8] == cardname].iloc[0]
-    edh = row['edhrec_rank']
-    price = row['prices']['usd']
-    
-    if not np.isnan(edh):
-        sumedh += edh
-        mEDH += 1
-    if price != None:
-        sump += float(price)
+    row2 = df[df.iloc[:, 8] == cardname]
+    if not row2.empty:
+        row = row2.iloc[0]
+        
+        edh = row['edhrec_rank']
+        price = row['prices']['usd']
+        
+        if not np.isnan(edh):
+            sumedh += edh
+            mEDH += 1
+        if price != None:
+            sump += float(price)
         mP += 1
     
         
 for cardname in cardnames:
-    row = df[df.iloc[:, 8] == cardname].iloc[0]
-    name = row['name']
-    edh = row['edhrec_rank']
-    price = row['prices']['usd']
-    rar = rarityprob[row['rarity']]
-    sets = len(df[df.iloc[:, 8] == cardname]['name'])
-    
-    if np.isnan(edh):
-        edh = sumedh/mEDH
-    if price == None:
-        price = sump/mP
-    else:
-        price = float(price)
+    row2 = df[df.iloc[:, 8] == cardname]
+    if not row2.empty:
+        row = row2.iloc[0]
+        name = row['name']
+        edh = row['edhrec_rank']
+        price = row['prices']['usd']
+        rar = rarityprob[row['rarity']]
+        sets = len(df[df.iloc[:, 8] == cardname]['name'])
         
-    ranks[name] = mamarank(price, edh, sets, rar)
+        if np.isnan(edh):
+            edh = sumedh/mEDH
+        if price == None:
+            price = sump/mP
+        else:
+            price = float(price)
+            
+        ranks[name] = mamarank(price, edh, sets, rar)
 
 sorted = {k: v for k, v in sorted(ranks.items(), key=lambda item: item[1])}
 
