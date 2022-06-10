@@ -1,0 +1,21 @@
+{
+
+    "manifest_version": 2,
+    "name": "Mamarank",
+    "version": "1.0",
+  
+    "description": "Computes the mamarank of decks inside Archideck.",
+  
+    "icons": {
+      "48": "icons/main.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://archidekt.com/decks/*"],
+        "js": ["mamarank.js"]
+      }
+    ]
+  
+  }
+  
