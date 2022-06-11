@@ -15,6 +15,11 @@
         "matches": ["*://archidekt.com/decks/*"],
         "js": ["mamarank.js"]
       }
+    ],
+
+    "web_accessible_resources": [
+      "scryfall.json",
+      "test.json"
     ]
   
   }
