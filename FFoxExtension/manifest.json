@@ -18,9 +18,14 @@
     ],
 
     "web_accessible_resources": [
-      "scryfall.json",
+      "scryfall.json_txt",
       "test.json"
-    ]
+    ],
+    "browser_specific_settings": {
+      "gecko": {
+        "update_url": "https://github.com/VRavaglia/EDH-Power-Level-Calculator/blob/main/FFoxExtension/updates.json"
+      }
+    }
   
   }
   

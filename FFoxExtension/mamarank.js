@@ -99,7 +99,25 @@ function loadCardsDeck(cards, scryfall){
     mamaTotal = mamaranks.reduce((partialSum, a) => partialSum + a, 0);
     console.log("\nTotal: ", mamaTotal);
     let stats = document.getElementsByClassName("meta")[1];
-    stats.innerHTML += "Mamarank:&nbsp;<span class=\"sc-jtggT iJBTkC\">"+Number((mamaTotal).toFixed(1))+ "</span>"
+
+    
+    const new_header1 = "<span>Mamarank:</span>"
+    const new_header2 = "<span class=\"sc-jtggT iJBTkC\">"+Number((mamaTotal).toFixed(1))+ "</span>"
+ 
+    const parser = new DOMParser()
+    const parsed = parser.parseFromString(new_header1, `text/html`)
+    const parsed2 = parser.parseFromString(new_header2, `text/html`)
+    const tags = parsed.getElementsByTagName(`span`)
+    const tags2 = parsed2.getElementsByTagName(`span`)
+    
+    // stats.innerHTML = ``
+    for (const tag of tags) {
+        stats.appendChild(tag)
+    }
+    stats = document.getElementsByClassName("meta")[1];
+    for (const tag of tags2) {
+        stats.appendChild(tag)
+    }
 
 
     
@@ -111,7 +129,7 @@ const rarityprob = {"common": 1/10,
              "rare": 1,
               "special": 1,
              "mythic": 8}
-const scryfall = fetchAsync(browser.runtime.getURL("./scryfall.json"));
+const scryfall = fetchAsync(browser.runtime.getURL("./scryfall.json_txt"));
 const windowloc = window.location.href;
 const archidecktApi = "https://archidekt.com/api/decks/" + windowloc.slice(windowloc.indexOf("decks")+6, windowloc.indexOf("#")) + "/";
 console.log(archidecktApi);
