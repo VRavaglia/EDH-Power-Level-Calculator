@@ -18,9 +18,6 @@ function mamarank(price, edh, sets, rar){
     return Math.log(temp)+10
 }
 
-
-
-
 function fillmeans(prices){
     let priceAmount = 0;
     let priceSum= 0;
@@ -94,8 +91,6 @@ function loadCardsDeck(cards, scryfall){
         console.log("Name: ", names[cidx], " - Mamarank: ", mamaranks[cidx]);
     }
 
-    
-
     mamaTotal = mamaranks.reduce((partialSum, a) => partialSum + a, 0);
     console.log("\nTotal: ", mamaTotal);
     let stats = document.getElementsByClassName("meta")[1];
@@ -129,11 +124,30 @@ const rarityprob = {"common": 1/10,
              "rare": 1,
               "special": 1,
              "mythic": 8}
+
 const scryfall = fetchAsync(browser.runtime.getURL("./scryfall.json_txt"));
-const windowloc = window.location.href;
-const archidecktApi = "https://archidekt.com/api/decks/" + windowloc.slice(windowloc.indexOf("decks")+6, windowloc.indexOf("#")) + "/";
-console.log(archidecktApi);
-const deck = fetchAsync(archidecktApi);
+
+console.log("Start");
+
+let currentPage = location.href;
+let start = true;
+setInterval(function()
+{
+    if (currentPage != location.href || start)
+    {
+        start = false;
+        // page has changed, set new page as 'current'
+        currentPage = location.href;
+        console.log(window.location.href);
+        if(currentPage.includes("decks")){
+            const windowloc = window.location.href;
+            const archidecktApi = "https://archidekt.com/api/decks/" + windowloc.slice(windowloc.indexOf("decks")+6, windowloc.indexOf("#")) + "/";
+            console.log(archidecktApi);
+            const deck = fetchAsync(archidecktApi);
+            scryfall.then((dataS) => deck.then((data) => loadCardsDeck(data.cards, dataS)));
+        } 
+    }
+}, 1000);
 
 
-scryfall.then((dataS) => deck.then((data) => loadCardsDeck(data.cards, dataS)));
+

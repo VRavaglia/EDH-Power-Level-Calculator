@@ -2,7 +2,7 @@
 
     "manifest_version": 2,
     "name": "Mamarank",
-    "version": "1.0",
+    "version": "1.1",
   
     "description": "Computes the mamarank of decks inside Archideck.",
   
@@ -12,7 +12,7 @@
   
     "content_scripts": [
       {
-        "matches": ["*://archidekt.com/decks/*"],
+        "matches": ["*://archidekt.com/*"],
         "js": ["mamarank.js"]
       }
     ],
